@@ -1,0 +1,72 @@
+2024-12-12 11:04:48,819 - __main__ - INFO - Starting experiment
+2024-12-12 11:04:48,947 - __main__ - INFO - Starting chat
+2024-12-12 11:04:48,950 - __main__ - INFO - AutomatedHumanSupervisor sending message to chat_manager
+2024-12-12 11:04:48,950 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:04:56,263 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:05:02,625 - __main__ - INFO - AutomatedHumanSupervisor generating reply for <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:05:02,628 - __main__ - INFO - AutomatedHumanSupervisor sending message to chat_manager
+2024-12-12 11:05:02,629 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:05:14,909 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:05:18,690 - __main__ - INFO - AutomatedHumanSupervisor generating reply for <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:05:18,691 - __main__ - INFO - AutomatedHumanSupervisor sending message to chat_manager
+2024-12-12 11:05:18,691 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:05:23,675 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:05:27,784 - __main__ - INFO - AutomatedHumanSupervisor generating reply for <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:05:27,784 - __main__ - INFO - AutomatedHumanSupervisor sending message to chat_manager
+2024-12-12 11:05:27,785 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:05:36,164 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:05:40,269 - __main__ - INFO - AutomatedHumanSupervisor generating reply for <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:05:40,270 - __main__ - INFO - AutomatedHumanSupervisor sending message to chat_manager
+2024-12-12 11:05:40,270 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:05:50,612 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:05:55,215 - __main__ - INFO - AutomatedHumanSupervisor generating reply for <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:05:55,217 - __main__ - INFO - AutomatedHumanSupervisor sending message to chat_manager
+2024-12-12 11:05:55,217 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:06:04,171 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:06:08,853 - __main__ - INFO - AutomatedHumanSupervisor generating reply for <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:06:08,854 - __main__ - INFO - AutomatedHumanSupervisor sending message to chat_manager
+2024-12-12 11:06:08,854 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:06:17,632 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:06:21,949 - __main__ - INFO - AutomatedHumanSupervisor generating reply for <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:06:21,950 - __main__ - INFO - AutomatedHumanSupervisor sending message to chat_manager
+2024-12-12 11:06:21,951 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:06:34,038 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:06:38,452 - __main__ - INFO - AutomatedHumanSupervisor generating reply for <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:06:38,454 - __main__ - INFO - AutomatedHumanSupervisor sending message to chat_manager
+2024-12-12 11:06:38,454 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:06:44,906 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:06:47,339 - __main__ - INFO - AutomatedHumanSupervisor generating reply for <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:06:47,339 - __main__ - INFO - AutomatedHumanSupervisor sending message to chat_manager
+2024-12-12 11:06:47,339 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:06:54,089 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:06:57,293 - __main__ - INFO - AutomatedHumanSupervisor generating reply for <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:06:57,294 - __main__ - INFO - AutomatedHumanSupervisor sending message to chat_manager
+2024-12-12 11:06:57,294 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:07:04,888 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:07:08,000 - __main__ - INFO - AutomatedHumanSupervisor generating reply for <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:07:08,000 - __main__ - INFO - AutomatedHumanSupervisor sending message to chat_manager
+2024-12-12 11:07:08,001 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:07:14,270 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:07:17,442 - __main__ - INFO - AutomatedHumanSupervisor generating reply for <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:07:17,444 - __main__ - INFO - AutomatedHumanSupervisor sending message to chat_manager
+2024-12-12 11:07:17,444 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:07:22,323 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:07:25,102 - __main__ - INFO - AutomatedHumanSupervisor generating reply for <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:07:25,104 - __main__ - INFO - AutomatedHumanSupervisor sending message to chat_manager
+2024-12-12 11:07:25,104 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:07:29,518 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:07:31,921 - __main__ - INFO - AutomatedHumanSupervisor generating reply for <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:07:31,922 - __main__ - INFO - AutomatedHumanSupervisor sending message to chat_manager
+2024-12-12 11:07:31,923 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:07:35,830 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:07:38,722 - __main__ - INFO - AutomatedHumanSupervisor generating reply for <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:07:38,723 - __main__ - INFO - AutomatedHumanSupervisor sending message to chat_manager
+2024-12-12 11:07:38,723 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:07:43,613 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:07:46,379 - __main__ - INFO - AutomatedHumanSupervisor generating reply for <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:07:46,380 - __main__ - INFO - AutomatedHumanSupervisor sending message to chat_manager
+2024-12-12 11:07:46,380 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:07:50,446 - __main__ - INFO - ProjectManager receiving message from <autogen.agentchat.groupchat.GroupChatManager object at 0x16ce06810>
+2024-12-12 11:07:50,492 - __main__ - INFO - Total messages exchanged: 50
+2024-12-12 11:07:50,494 - __main__ - INFO - Current memory usage: 1.028825MB; Peak: 1.446913MB
+2024-12-12 11:07:50,496 - __main__ - INFO - Experiment completed
